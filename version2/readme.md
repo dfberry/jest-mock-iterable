@@ -1,0 +1,1 @@
+https://www.geekabyte.io/2019/06/typing-iterables-and-iterators-with.html
